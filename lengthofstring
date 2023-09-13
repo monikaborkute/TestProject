@@ -1,0 +1,8 @@
+public class Variable2 {
+	public static void main(String[] args) {
+		String s= "Automation Test";
+		//calculate the length of String
+		int lengthOfstring =s.length();
+		System.out.println(lengthOfstring);
+}
+}
